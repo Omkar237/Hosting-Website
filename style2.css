@@ -1088,7 +1088,7 @@ new6 input{
 
 
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 400px) {
 
     html{
         font-size: 48.7%;
@@ -1202,7 +1202,7 @@ new6 input{
 }
 
 
-@media screen and (min-width: 451px) and (max-width: 900px) {
+@media screen and (min-width: 450px) and (max-width: 900px) {
 
     html{
         font-size: 80%;
