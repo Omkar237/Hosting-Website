@@ -549,7 +549,7 @@ html{
     }
 }
 
-@media only screen and (max-width:400px){
+@media only screen and (max-width:550px){
     
     html{
         font-size: 31%;
@@ -709,7 +709,7 @@ html{
 
 }
 
-@media only screen and (min-width:480px) and (max-width: 1200px){
+@media only screen and (min-width:551px) and (max-width: 1200px){
     
     html{
         font-size: 31%;
